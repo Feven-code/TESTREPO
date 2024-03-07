@@ -1,0 +1,18 @@
+       GITHUB 
+
+1. CLONE --> copy to your local machine (git clone (path directory)
+2. FORK --> copy to your github
+
+COMMANDS
+1. check status
+--> git status
+
+2. Add changes 
+--> git add .
+
+3. Add messages
+--> git comment -m" e.g.login added"
+
+4.ADD TO GITHUB
+--> git push
+          
