@@ -1,0 +1,25 @@
+  GITHUB 
+
+1. CLONE --> copy to your local machine (git clone (path directory)
+2. FORK --> copy to your github
+
+COMMANDS
+1. check status
+--> git status
+
+2. Add changes 
+--> git add .
+
+3. Add messages
+--> git commit -m" e.g.login added"
+
+4.ADD TO GITHUB
+--> git push
+
+BRANCHES
+1. create branch
+--> git branch login (name of branch)
+2. change branch
+--> git checkout login  or git switch login
+3. merging
+--> git merge main
